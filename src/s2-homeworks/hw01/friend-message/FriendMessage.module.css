@@ -31,7 +31,7 @@
     font-weight: 600; 
     font-size: 16px; 
     line-height: 20px; 
-    color: #000000; 
+    color: black; 
 }
 
 .friendMessageText {
@@ -39,7 +39,7 @@
     font-weight: 400; 
     font-size: 16px; 
     line-height: 20px; 
-    color: #000000; 
+    color: black; 
     margin: 5px 0; 
     
 }

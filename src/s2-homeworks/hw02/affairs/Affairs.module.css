@@ -53,3 +53,10 @@
     flex-wrap: wrap;
     max-width: 450px;
 }
+.affairsC {
+    display: flex;
+    gap: 17px;
+    flex-wrap: wrap;
+    max-width: 450px;
+    flex-direction: column;
+}
